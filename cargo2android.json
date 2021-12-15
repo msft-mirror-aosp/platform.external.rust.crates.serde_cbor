@@ -1,7 +1,7 @@
 {
-    "device": true,
-    "features": "default,tags",
-    "run": true,
-    "tests": true,
-    "vendor_available": true
+  "device": true,
+  "features": "default,tags",
+  "run": true,
+  "tests": true,
+  "vendor-available": true
 }
