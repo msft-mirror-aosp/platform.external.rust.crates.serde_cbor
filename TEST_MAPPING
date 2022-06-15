@@ -14,56 +14,6 @@
       "path": "external/rust/crates/unicode-xid"
     }
   ],
-  "postsubmit": [
-    {
-      "name": "diced_test"
-    },
-    {
-      "name": "diced_vendor_test"
-    },
-    {
-      "name": "keystore2_client_tests"
-    },
-    {
-      "name": "keystore2_legacy_blobs_test"
-    },
-    {
-      "name": "keystore2_test"
-    },
-    {
-      "name": "keystore2_test_utils_test"
-    },
-    {
-      "name": "legacykeystore_test"
-    },
-    {
-      "name": "microdroid_manager_test"
-    },
-    {
-      "name": "serde_cbor_test_tests_bennofs"
-    },
-    {
-      "name": "serde_cbor_test_tests_canonical"
-    },
-    {
-      "name": "serde_cbor_test_tests_de"
-    },
-    {
-      "name": "serde_cbor_test_tests_enum"
-    },
-    {
-      "name": "serde_cbor_test_tests_ser"
-    },
-    {
-      "name": "serde_cbor_test_tests_std_types"
-    },
-    {
-      "name": "serde_cbor_test_tests_tags"
-    },
-    {
-      "name": "serde_cbor_test_tests_value"
-    }
-  ],
   "presubmit": [
     {
       "name": "diced_test"
